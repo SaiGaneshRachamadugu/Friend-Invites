@@ -1,0 +1,1 @@
+Make sure you add a check properly, to not send a friend request to yourself check if the id stored in your document is matching with the id you searched for or not, if it is same then write a function to disable the Add Friend button
